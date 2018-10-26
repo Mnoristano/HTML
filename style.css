@@ -80,6 +80,7 @@ h1.subheading{
 
 .container{
     background-color: white;
+    height: 100%;
 }
 
 .small{
@@ -97,4 +98,3 @@ ul.navbar-nav{
     position: absolute;
     right:5%;
 }
-
