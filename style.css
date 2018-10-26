@@ -1,0 +1,100 @@
+a.navbar-brand{
+    color:inherit;
+    color: white;
+    padding: 14pt;
+    background-color: turquoise;
+    position: relative;
+    left: 5%;
+}
+span.h1{
+    color: white;
+}
+nav{
+    background-color: white;
+}
+
+#navbarNavDropdown{
+    position: relative;
+   
+}
+
+body{
+    background-color: lightgrey;
+}
+
+
+
+footer{
+    color: white;
+    background-color: grey;
+    position: absolute;
+    bottom: 0%;
+    left:0%;
+    width: 100%;
+}
+
+h1.heading{
+    color: turquoise;
+    font-size: 24pt;
+
+}
+
+h1.description{
+    font-size: 12pt;
+}
+
+img.main{
+    position: absolute;
+    left:0%;
+    top:20%;
+    height: 35%;
+    width: 30%;
+    float: left;
+}
+p{
+    text-align: left;
+    font-size: 12pt;
+    position: relative;
+    top:5%;
+    left:0%;
+}
+.shift{
+    position: relative;
+    left: 10%;
+    top: 5%;
+}
+.sec{
+    position: absolute;
+    top: 20%;
+    left: 40%;
+    width: 30%;
+    height: 60%;
+    
+}
+
+h1.subheading{
+    color: blue;
+    font-size: 18pt;
+
+}
+
+.container{
+    background-color: white;
+}
+
+.small{
+    width: 100%;
+    padding: 5px;
+}
+
+.med{
+    width: 50%;
+}
+.large{
+    width: 90%;
+}
+ul.navbar-nav{
+    position: absolute;
+    right:5%;
+}
+
